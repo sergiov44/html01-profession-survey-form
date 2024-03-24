@@ -29,7 +29,7 @@ fieldset {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Amithen', cursive;
+    font-family: 'Amithen', 
     color: #d3d3d3; /* Light gray color for titles */
     margin-bottom: 20px; /* Added space below titles for better structure */
 }
